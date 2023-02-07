@@ -2,13 +2,15 @@
 
 A classic snake game developed using the Pygame library. The game features a colourful interface and smooth gameplay. Includes source code and assets.
 
+<img src="snake_game_thumbnail.png" width="50%" height="50%">
+
+## Gameplay Mechanics
+
 The game starts with a snake appearing in the middle of the screen. The user can control the snake using the arrow keys to move it around the screen. The objective of the game is to eat the food that randomly appears on the screen. Every time the snake eats the food, it grows in size, and the user's score increases.
 
 The game ends when the snake collides with the wall or itself. 
 
 This game is a great way to pass some time and have some fun. Give it a try!
-
-<img src="snake_game_thumbnail.png" width="50%" height="50%">
 
 ## Requirements
 
