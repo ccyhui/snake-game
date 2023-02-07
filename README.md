@@ -5,10 +5,6 @@ The game starts with a snake appearing in the middle of the screen. The user can
 
 The game ends when the snake collides with the wall or itself. 
 
-The code is broken down into three classes: Food, Snake, and SnakeGame. The Food class holds information about the food's position and size. The Snake class holds information about the snake's head, body, and direction. The SnakeGame class is responsible for running the game and drawing the various elements on the screen. 
-
-The game is run by calling the run function of the SnakeGame class. This function handles user input and updates the game accordingly. It also checks for collisions between the snake and the wall or itself. 
-
 This game is a great way to pass some time and have some fun. Give it a try!
 
 ## Requirements
@@ -29,3 +25,9 @@ This game is a great way to pass some time and have some fun. Give it a try!
 - Eat the food to grow the snake.
 - Avoid hitting the walls or snake's own body.
 - Game ends when snake hits the wall or its own body.
+
+## Code Description
+
+The code is broken down into three classes: Food, Snake, and SnakeGame. The Food class holds information about the food's position and size. The Snake class holds information about the snake's head, body, and direction. The SnakeGame class is responsible for running the game and drawing the various elements on the screen. 
+
+The game is run by calling the run function of the SnakeGame class. This function handles user input and updates the game accordingly. It also checks for collisions between the snake and the wall or itself. 
