@@ -1,6 +1,8 @@
 # Snake Game
 
-A classic snake game developed using the Pygame library. The game features a colourful interface and smooth gameplay. Includes source code and assets. This game is a great way to pass some time and have some fun. Give it a try!
+A classic snake game developed using the Pygame library. The game features a colourful interface and smooth gameplay. Includes source code and assets.
+
+This game is a great way to pass some time and have some fun. Give it a try!
 
 <img src="snake_game_thumbnail.png" width="50%" height="50%">
 
