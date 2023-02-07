@@ -16,6 +16,13 @@ This game is a great way to pass some time and have some fun. Give it a try!
 - Python 3.x
 - Pygame library
 
+## How to run the game
+
+1. Make sure you have installed all the required libraries and dependencies.
+2. Navigate to the directory where the game's files are located in the terminal or command prompt.
+3. Run the main file for the game by using the command `python snake_game.py` or `python3 snake_game.py`.
+4. The game should now start and you can play it.
+
 ## How to play the game
 
 - Use arrow keys to control the movement of snake.
